@@ -14,7 +14,7 @@ An app that captures a date and the user's name, then it's renders those vaules 
 
 **Topics:**
 
-- useStat React Hook
+- useState React Hook
 - Import/Export components
 
 ### 02-RandomizeColors App
@@ -24,3 +24,12 @@ A set of buttons that changes its own color and the background color of the page
 **Topics:**
 
 - 2 diferents ways to handle click events on buttons
+
+### 03-LikePhoto App
+
+Handles the like to a Dogy dog photo with an icon and a double click event.
+
+**Topics:**
+
+- React icons
+- useState React Hook
