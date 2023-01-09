@@ -59,3 +59,13 @@ Controlles the temperature based on the user's interactions.
 
 - useState React Hook
 - useEffect React Hook
+
+### 07-Change color theme App
+
+Changes the theme according with the user's selection.
+
+**Topics:**
+
+- useContext React Hook
+- useState React Hook
+- useEffect React Hook
