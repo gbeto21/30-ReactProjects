@@ -69,3 +69,12 @@ Changes the theme according with the user's selection.
 - useContext React Hook
 - useState React Hook
 - useEffect React Hook
+
+### 08-Slide to unlock App
+
+Allows to lock and unlock a home screen app.
+
+**Topics:**
+
+- useState React Hook
+- useEffect React Hook
