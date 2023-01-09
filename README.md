@@ -33,3 +33,11 @@ Handles the like to a Dogy dog photo with an icon and a double click event.
 
 - React icons
 - useState React Hook
+
+### 04-Testimonials App
+
+Allows the user pick between show info of post, users or comments.
+
+**Topics:**
+
+- useEffect React Hook
