@@ -41,3 +41,12 @@ Allows the user pick between show info of post, users or comments.
 **Topics:**
 
 - useEffect React Hook
+
+### 05-Alerts App
+
+Shows alert customizable messages.
+
+**Topics:**
+
+- useEffect React Hook
+- useState React Hook
