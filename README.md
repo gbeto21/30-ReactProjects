@@ -50,3 +50,12 @@ Shows alert customizable messages.
 
 - useEffect React Hook
 - useState React Hook
+
+### 06-TemperatureMonitor App
+
+Controlles the temperature based on the user's interactions.
+
+**Topics:**
+
+- useState React Hook
+- useEffect React Hook
