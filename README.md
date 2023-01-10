@@ -86,3 +86,13 @@ A slider that shows it's value and increases a circle's size when increases the 
 **Topics:**
 
 - useState React Hook
+
+### 10-Hidden search bar App
+
+Shows a search bar when the user clicks on one icon.
+
+**Topics:**
+
+- useRef React Hook
+- useState React Hook
+- useEffect React Hook
