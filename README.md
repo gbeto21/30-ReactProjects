@@ -96,3 +96,12 @@ Shows a search bar when the user clicks on one icon.
 - useRef React Hook
 - useState React Hook
 - useEffect React Hook
+
+### 11-Magic Popup App
+
+Shows pop ups.
+
+**Topics:**
+
+- useState React Hook
+- useEffect React Hook

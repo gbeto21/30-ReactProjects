@@ -1,5 +1,5 @@
 import "./App.css";
-import HiddenSearchBarApp from "./projects/10-hidden-search-bar/HiddenSearchBarApp";
+import PopupApp from "./projects/11-MagicPopup/PopupApp";
 
 // import LikePhotoApp from "./projects/03-like-my-photo/LikePhotoApp";
 // import RandomizeColors from "./projects/02-randomize-colors/RandomizeColors";
@@ -10,11 +10,13 @@ import HiddenSearchBarApp from "./projects/10-hidden-search-bar/HiddenSearchBarA
 // import LightAndDarkApp from "./projects/07-LightAndDarkMode/LightAndDarkMode";
 // import SlideToUnlock from "./projects/08-slide-to-unlok/SlideToUnlock";
 // import SliderApp from "./projects/09-slider/SliderApp";
+// import HiddenSearchBarApp from "./projects/10-hidden-search-bar/HiddenSearchBarApp";
 
 function App() {
   return (
     <div className="App">
-      <HiddenSearchBarApp/>
+      <PopupApp/>
+      {/* <HiddenSearchBarApp/> */}
       {/* <SliderApp/> */}
       {/* <SlideToUnlock/> */}
       {/* <LightAndDarkApp/> */}
