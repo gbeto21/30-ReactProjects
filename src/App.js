@@ -1,5 +1,5 @@
 import "./App.css";
-import SlideToUnlock from "./projects/08-slide-to-unlok/SlideToUnlock";
+import SliderApp from "./projects/09-slider/SliderApp";
 
 // import LikePhotoApp from "./projects/03-like-my-photo/LikePhotoApp";
 // import RandomizeColors from "./projects/02-randomize-colors/RandomizeColors";
@@ -8,11 +8,13 @@ import SlideToUnlock from "./projects/08-slide-to-unlok/SlideToUnlock";
 // import AlertApp from "./projects/05-Alerts/AlertApp";
 // import TemperatureControllerApp from "./projects/06-temperature-controller/TemperatureControllerApp";
 // import LightAndDarkApp from "./projects/07-LightAndDarkMode/LightAndDarkMode";
+// import SlideToUnlock from "./projects/08-slide-to-unlok/SlideToUnlock";
 
 function App() {
   return (
     <div className="App">
-      <SlideToUnlock/>
+      <SliderApp/>
+      {/* <SlideToUnlock/> */}
       {/* <LightAndDarkApp/> */}
       {/* <TemperatureControllerApp/> */}
       {/* <AlertApp/> */}

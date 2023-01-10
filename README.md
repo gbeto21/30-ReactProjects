@@ -78,3 +78,11 @@ Allows to lock and unlock a home screen app.
 
 - useState React Hook
 - useEffect React Hook
+
+### 09-Slide App
+
+A slider that shows it's value and increases a circle's size when increases the slider's value.
+
+**Topics:**
+
+- useState React Hook
